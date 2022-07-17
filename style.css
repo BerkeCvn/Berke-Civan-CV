@@ -399,6 +399,7 @@ a:hover{
     #footer{
         margin-top: 120px;
     }
+    
 }
 @media screen and (max-width: 420px) {
     #footer{
@@ -411,5 +412,11 @@ a:hover{
     }
     .navbar .mobileMenu button{
         display: flex;
+    }
+    .Berke{
+        font-size: 51px;
+    }
+    .Berke2{
+        font-size: 13px;
     }
 }
